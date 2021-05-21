@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExceptionExample/ExceptionExmple.iml" filepath="$PROJECT_DIR$/ExceptionExample/ExceptionExmple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceExample/InterfaceExample.iml" filepath="$PROJECT_DIR$/InterfaceExample/InterfaceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OtherExample/OtherExample.iml" filepath="$PROJECT_DIR$/OtherExample/OtherExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Payroll/Payroll.iml" filepath="$PROJECT_DIR$/Payroll/Payroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SyncData/SyncData.iml" filepath="$PROJECT_DIR$/SyncData/SyncData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SyncJoin/SyncJoin.iml" filepath="$PROJECT_DIR$/SyncJoin/SyncJoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads/threads.iml" filepath="$PROJECT_DIR$/threads/threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitledJava.iml" filepath="$PROJECT_DIR$/untitledJava.iml" />
+    </modules>
+  </component>
+</project>
