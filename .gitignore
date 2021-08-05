@@ -1,2 +1,14 @@
 
 .DS_Store
+.gradle/*
+*.class
+*/Factorial.class
+JavaByExample/build/tmp/compileJava/previous-compilation-data.bin
+JavaByExample/build/classes/java/main/Part1/Charpter1/Reverse.class
+JavaByExample/build/classes/java/main/Part1/Charpter1/Echo.class
+JavaByExample/build/classes/java/main/Part1/Charpter1/exFactorial.class
+JavaByExample/build/classes/java/main/Part1/Charpter1/Factorial.class
+JavaByExample/build/classes/java/main/Part1/Charpter1/Fibonacci.class
+JavaByExample/build/classes/java/main/Part1/Charpter1/FizzBuzz.class
+JavaByExample/build/classes/java/main/Part1/Charpter1/FizzBuzz2.class
+JavaByExample/build/classes/java/main/Part1/Charpter1/Hello.class

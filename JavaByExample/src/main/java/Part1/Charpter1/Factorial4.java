@@ -11,11 +11,7 @@ import java.util.ArrayList;
  */
 
 public class Factorial4 {
-    protected static ArrayList table = new ArrayList();
-    static {
-        table.add(BigInteger.valueOf(1));
-    }
-    public static synchronized BigInteger factorial (int x) {
-        if (x<0)
+    public static void main(String[] args) {
+        System.out.println("asdf");
     }
 }
