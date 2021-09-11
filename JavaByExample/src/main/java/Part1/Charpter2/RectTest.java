@@ -1,5 +1,9 @@
 package Part1.Charpter2;
 
+
+/**
+ * Класс демонстрирует возможное приминение класса Rect
+ */
 public class RectTest {
     public static void main(String[] args) {
         Rect r1 = new Rect(1, 1, 4, 6);
