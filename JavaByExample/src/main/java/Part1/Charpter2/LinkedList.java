@@ -81,11 +81,11 @@ public class LinkedList {
             p = q;
         }
     }
-    public static class Test {
-        static class LinkableInteger implements Linkable {
-            int i;
-        }
-    }
+//    public static class Test {
+//        static class LinkableInteger implements Linkable {
+//            int i;
+//        }
+//    }
 }
 
 

@@ -20,3 +20,5 @@ JavaByExample/build/tmp/compileJava/previous-compilation-data.bin
 lib/
 JavaByExample/build/tmp/compileJava/previous-compilation-data.bin
 .idea/gradle.xml
+*.class
+*.bin
